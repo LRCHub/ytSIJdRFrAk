@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "チルノのパーフェクトさんすう学園",
+  "base_artist": "COOL&CREATE",
+  "createdAt": "2025-12-05T10:54:40.001002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チルノのパーフェクトさんすう学園",
+      "artist": "ビートまりお",
+      "has_synced": true,
+      "path": "select/01_チルノのパーフェクトさんすう学園_ビートまりお.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チルノのパーフェクトさんすう学園",
+      "artist": "COOL&CREATE",
+      "has_synced": false,
+      "path": "select/pl_01_チルノのパーフェクトさんすう学園_COOL&CREATE.txt"
+    }
+  ]
+}
